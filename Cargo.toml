@@ -1,0 +1,9 @@
+[workspace]
+members = [
+    "offline",
+    "raytracer",
+    "ui",
+]
+
+[profile.release]
+debug = true

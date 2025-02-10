@@ -1,2 +1,1 @@
-# Halide-Ray-Tracer
-A fun tool to  play around with halide to generate ray tracing
+## Playing Around with halide from making ray tracing .
