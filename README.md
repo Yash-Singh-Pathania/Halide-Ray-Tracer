@@ -1,7 +1,3 @@
-Below is a comprehensive README and tutorial for the [Halide-Ray-Tracer](https://github.com/Yash-Singh-Pathania/Halide-Ray-Tracer) repository, assembled from reviewing its structure and contents. This document is designed to guide users through understanding the project, setting it up, and using it. You may use or modify this README as needed for your personal GitHub repository.
-
----
-
 # Halide Ray Tracer
 
 A fun tool to experiment with [Halide](https://halide-lang.org/) by generating ray-traced images. This project leverages the Halide language to create visually interesting ray tracing effects while exploring Halide’s capabilities in image processing and computational photography.
